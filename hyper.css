@@ -6,10 +6,12 @@ p{
     color: #514668 !important;
     font-size: 13px !important;
 }
-.bg-primary{
-    background-color: 
-    #5200FF !important;
-}
+:root {
+    --bs-primary:  #5200FF !important;}
+
+    :root {
+        --bs-light:  #5200FF !important;}
+    
  .header a {
     text-decoration: none;
     color: #514668;
