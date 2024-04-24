@@ -1,0 +1,13 @@
+ 
+:root {
+    --bs-primary-rgb:82,0,255;
+    --bs-secondary-rgb:81, 70, 104, 1;
+    
+}
+a{
+    text-decoration: none;
+    color: rgba(var(--bs-secondary-color-rgb));
+    font-size: 13px;
+}
+
+ 
